@@ -1,0 +1,18 @@
+class hello
+{
+	method public static void main (java.lang.String[])
+	max_stack 15
+	max_locals 15
+	{
+		getstatic java.io.PrintStream java.lang.System.out
+		ldc "hello world "
+		invokevirtual void java.io.PrintStream.print(java.lang.String)
+		getstatic java.io.PrintStream java.lang.System.out
+		ldc "hello world "
+		invokevirtual void java.io.PrintStream.println(java.lang.String)
+		getstatic java.io.PrintStream java.lang.System.out
+		ldc "hello world "
+		invokevirtual void java.io.PrintStream.println(java.lang.String)
+		return
+	}
+}

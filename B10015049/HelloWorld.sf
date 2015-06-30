@@ -1,0 +1,6 @@
+C print hello world
+  program hello
+    print "hello world " ! print the message
+    println "hello world "
+    println "hello world "
+  end program hello
